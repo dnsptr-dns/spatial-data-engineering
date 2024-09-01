@@ -15,8 +15,7 @@ Before running this project, ensure that you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/APRIL_spatial_db.git
-   cd APRIL_spatial_db
+   git clone https://github.com/dnsptr-dns/spatial-data-engineering.git
    ```
 
 2. Set up Docker services:
