@@ -1,5 +1,5 @@
  
-# APRIL Spatial Database Project
+# Spatial Database Project
 
 This project focuses on the analysis of spatial data, specifically land use and elevation in Indonesia. The project includes Python scripts for data loading and report generation, an R script for spatial analysis, and a SQL file for querying linked spatial data.
 
