@@ -1,0 +1,27 @@
+services:
+  db:
+    image: postgis/postgis:15-3.3-alpine
+    container_name: spatial_db
+    environment:
+      POSTGRES_USER: april           # PostgreSQL username
+      POSTGRES_PASSWORD: 2030april   # PostgreSQL password
+      POSTGRES_DB: april_spatial_db  # Name of the database to create
+    ports:
+      - "5434:5432"  # Host port : Container port
+    volumes:
+      - db_data:/var/lib/postgresql/data  # Persistent storage for the PostgreSQL data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -d april_spatial_db -U april"]  # Check for the correct database
+      interval: 10s    # Time between each health check attempt
+      retries: 5       # Number of retries before considering the service unhealthy
+
+  # gdal:
+  #   image: osgeo/gdal:alpine-small-latest
+  #   container_name: gdal_tool
+  #   volumes:
+  #     - ./data:/data
+  #   depends_on:
+  #     - db
+
+volumes:
+  db_data:  # Define a named volume for PostgreSQL data persistence

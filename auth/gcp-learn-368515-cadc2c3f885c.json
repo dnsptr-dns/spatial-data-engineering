@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-learn-368515",
+  "private_key_id": "cadc2c3f885cebd6e471fc272af7633aa7d509db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQhiO93NoGdp/g\nlo4lOuHwu7Nf6hz95xOcb30yGRaG1JfhjoqMoFULzLIC93fACXmPcYwgLyfcUmq0\nqz93c7UcE5jHFoSnhZeVSypyEqCb3GNikGMqYEBdEFJabFVkYCn3lrXKflDZFKAE\nawgg4GMtWivTNsYZe57p4ighdJx8xI578Y7VYlzlbD8bUBOKHZpS4CGlZxrBhBgR\n/x4QYRLKsb0WKIQaonm2nhLhe5tJK+Gl9PgQ664xtwqrJAKJO7a82R/58FxCp5tE\nYh5/r9IAFyaGokwS7UsTzu7ooLT4pxhi27I23KiPrBNWpxmgYfsQIUnuw5e8zt2J\niS4sHjm5AgMBAAECggEAL10mvYRxl4is4Me2khD4FxMMuDRbiAKA9NW86/w427s0\ng2FZmri45oMRG9PKVQ9F3XLS/4E0yQnhmpA83oL3KdpqSWTh2Jz5jp3xrSzZofra\nP2UeerbMoTNGKggy/BBf8JpdvZ0kFeCiiJAjO9MN7cENd80NozBWZkQN7tjuqBys\nl28hgiNBh1jx0l0U9DacxSY5nixT0sCZyw8JPpgHr6f9B7Hrz9xA8Bhxjuwiv0Wc\nYBTJOxQd5pRrkTz6HqFbwB8G8zk7xU8xfzxGhYj21PCbv/T+MUrV4bTy3GChn+io\nzb+X1IQwhdDYvyA6pyUb+czJdk64rW2xiv9H+TD82QKBgQDCxX1RG+aueJlEuYWC\nYwDjPG2qOCu9Xp2pQQwrN77pWu0VRoEqi6Q7GlrHnNAIVYejPh8JodYNxEpSoC93\nPELiHrn/5c51vKbILAtOl3PsB/I1fDTMmoh+9LRIM5+lXUGbQcSCk4/6js+7CHBd\nV3d1rif+tjV4MWq3Es1PVkKIOwKBgQC99OnxkdrM4iCCoFsttSVtpQMuEkPyVttR\nVQ0emBBjFNpEylmqoqiz/HtXk44Q66zgoRTfcPOfG6fDxnwrC83eimXjeoQUKtuU\nWPGY8C2jfD0/mu1LJEehCgVniyBQIYgLv80yZt58ieo2T/daGiXprwKfmHp+FelS\n0ZiHy8NamwKBgCLfZT6edkEKyrZpWSQtQb1t1lzBzeMMC8KAKQOb6YyygPxsMThC\n5FbIszRGOWEknzJ1Lu10knTIjl4Y3CbHHVqLEdZleP/PlTUF3chmiZTbH1zALlvr\n10CT46uBwrXC6ro3nk2ayg6cf0kHi8bKoFLrqbGLQiuQ/YBl12i7ExJ9AoGBALsR\n3/Zr+nt9UiDyhPjNhY+mSyxrBok5aoF9bg8sGC9LkOzgDlASImwmgN2tTeJyBm2t\nlR27YeDWXnBaH1xRIqw/xbmxpTMrRdWhhkRke72eE7949qnij7wTX2EqTWc8rntL\np2w0jHU/aO2V8PXF/IJXPREpG7DiKUbLbRiG3dtzAoGARWRxxQVVzeBkj6vFTUY4\nJTAiHRHQ4b56gexsTVOHQJ6ODqlKgrmczBEAE9eJ5SxBNtgnfKZeRZHYZmG8ymxx\nfee3qrm8X/N1LBlLazXV5vGI167fmNE0MVATy0XFwWw3I3oTs9c005SO/iqXi9ot\nRTVf+lvhaiQYu+ZNPTlQ42k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "testing-earth-engine@gcp-learn-368515.iam.gserviceaccount.com",
+  "client_id": "111092437251208754168",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testing-earth-engine%40gcp-learn-368515.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
